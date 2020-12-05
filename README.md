@@ -51,12 +51,12 @@ $ php yii migrate --migrationPath=@victorsemenow/workflow/manager/migrations
 $config = [
     'components' => [
         'workflowSource' => [
-            'class' => 'victorsemenow\workflow\manager\components\WorkflowDbSource',
+            'class' => 'victorsemenov\workflow\manager\components\WorkflowDbSource',
         ],
     ],
     'modules' => [
         'workflow' => [
-            'class' => 'victorsemenow\workflow\manager\Module',
+            'class' => 'victorsemenov\workflow\manager\Module',
         ],
     ],
 ];

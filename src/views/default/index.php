@@ -3,7 +3,7 @@
  * @var yii\web\View $this
  */
 
-use victorsemenow\workflow\manager\models\Workflow;
+use victorsemenov\workflow\manager\models\Workflow;
 use yii\bootstrap4\Nav;
 use yii\bootstrap4\Html;
 use kartik\icons\Icon;

@@ -1,9 +1,9 @@
 <?php
 
-namespace victorsemenow\workflow\manager\controllers;
+namespace victorsemenov\workflow\manager\controllers;
 
-use victorsemenow\workflow\manager\models\form\StatusForm;
-use victorsemenow\workflow\manager\models\Status;
+use victorsemenov\workflow\manager\models\form\StatusForm;
+use victorsemenov\workflow\manager\models\Status;
 use Yii;
 use yii\web\Controller;
 use yii\web\HttpException;

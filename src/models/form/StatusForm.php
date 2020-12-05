@@ -1,9 +1,9 @@
 <?php
 
-namespace victorsemenow\workflow\manager\models\form;
+namespace victorsemenov\workflow\manager\models\form;
 
-use victorsemenow\workflow\manager\models\Metadata;
-use victorsemenow\workflow\manager\models\Status;
+use victorsemenov\workflow\manager\models\Metadata;
+use victorsemenov\workflow\manager\models\Status;
 use Yii;
 use yii\base\Model;
 use yii\db\ActiveRecord;
@@ -15,7 +15,7 @@ use yii\widgets\ActiveForm;
  * @property Status $status
  * @property Metadata[] $metadatas
  *
- * @package victorsemenow\workflow\manager\models\form
+ * @package victorsemenov\workflow\manager\models\form
  */
 class StatusForm extends Model
 {

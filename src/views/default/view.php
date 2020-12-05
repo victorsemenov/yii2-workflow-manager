@@ -1,10 +1,10 @@
 <?php
 /**
  * @var yii\web\View $this
- * @var victorsemenow\workflow\manager\models\Workflow $model
+ * @var victorsemenov\workflow\manager\models\Workflow $model
  */
 
-use victorsemenow\workflow\manager\models\Transition;
+use victorsemenov\workflow\manager\models\Transition;
 use yii\bootstrap4\Html;
 use raoul2000\workflow\view\WorkflowViewWidget;
 use yii\helpers\ArrayHelper;

@@ -1,6 +1,6 @@
 <?php
 
-namespace victorsemenow\workflow\manager\models;
+namespace victorsemenov\workflow\manager\models;
 
 use Yii;
 use yii\db\ActiveRecord;

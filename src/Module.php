@@ -1,19 +1,19 @@
 <?php
 
-namespace victorsemenow\workflow\manager;
+namespace victorsemenov\workflow\manager;
 
 use Yii;
 
 /**
  * Class Module
- * @package victorsemenow\workflow\manager
+ * @package victorsemenov\workflow\manager
  */
 class Module extends \yii\base\Module
 {
     /**
      * @var string
      */
-    public $controllerNamespace = 'victorsemenow\workflow\manager\controllers';
+    public $controllerNamespace = 'victorsemenov\workflow\manager\controllers';
     /**
      * @var string
      */

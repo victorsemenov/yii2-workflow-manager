@@ -1,17 +1,17 @@
 <?php
 
-namespace victorsemenow\workflow\manager\controllers;
+namespace victorsemenov\workflow\manager\controllers;
 
-use victorsemenow\workflow\manager\models\Status;
-use victorsemenow\workflow\manager\models\Transition;
-use victorsemenow\workflow\manager\models\Workflow;
+use victorsemenov\workflow\manager\models\Status;
+use victorsemenov\workflow\manager\models\Transition;
+use victorsemenov\workflow\manager\models\Workflow;
 use Yii;
 use yii\web\Controller;
 use yii\web\HttpException;
 
 /**
  * Class DefaultController
- * @package victorsemenow\workflow\manager\controllers
+ * @package victorsemenov\workflow\manager\controllers
  */
 class DefaultController extends Controller
 {

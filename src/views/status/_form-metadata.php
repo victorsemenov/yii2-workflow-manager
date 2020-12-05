@@ -1,8 +1,8 @@
 <?php
 /**
  * @var yii\web\View $this
- * @var victorsemenow\workflow\manager\models\form\StatusForm $model
- * @var victorsemenow\workflow\manager\models\Metadata $metadata
+ * @var victorsemenov\workflow\manager\models\form\StatusForm $model
+ * @var victorsemenov\workflow\manager\models\Metadata $metadata
  * @var ActiveForm $form
  * @var string $key
  */

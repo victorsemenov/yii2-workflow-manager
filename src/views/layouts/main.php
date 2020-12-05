@@ -4,7 +4,7 @@
  * @var $content string
  */
 
-use victorsemenow\workflow\manager\models\Workflow;
+use victorsemenov\workflow\manager\models\Workflow;
 use yii\bootstrap4\Nav;
 use yii\bootstrap4\NavBar;
 use yii\bootstrap4\Html;
