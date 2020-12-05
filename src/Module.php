@@ -26,7 +26,7 @@ class Module extends \yii\base\Module
             Yii::$app->i18n->translations['workflow'] = [
                 'class' => 'yii\i18n\PhpMessageSource',
                 'sourceLanguage' => 'en-US',
-                'basePath' => '@victorsemenow/workflow/manager/messages'
+                'basePath' => '@victorsemenov/workflow/manager/messages'
             ];
         }
     }
